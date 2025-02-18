@@ -5,6 +5,9 @@ A financial management app built with React.js, Node.js, Express.js, and SQL. It
 Technologies Used:
 
 Frontend: React.js, Tailwind CSS
+
 Backend: Node.js, Express.js
+
 Database: SQL (Drizzle ORM)
+
 Libraries/Tools: JWT, Recharts
